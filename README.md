@@ -11,6 +11,8 @@ Repositório de material sobre a Área de Product Manager
 <h3>My favorite search engine is: </h3
   
 <p>
+
+[Brainrants](https://brainmates.com.au/product-management/why-we-need-product-management/) <p>
   
   [Site da PM3](https://www.cursospm3.com.br/blog/inspired-how-to-create-tech-products-customers-love-resumo-em-portugues-parte-1/) <p>
   
