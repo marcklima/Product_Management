@@ -12,6 +12,8 @@ Repositório de material sobre a Área de Product Manager
   
 <p>
   
+  [Site da PM3](https://www.cursospm3.com.br/blog/inspired-how-to-create-tech-products-customers-love-resumo-em-portugues-parte-1/) <p>
+  
 [Dicas PM](http://pauloorione.com/blog/-inspired-how-to-create-tech-products-customers-love-marty-cagan792020) <p>
   
 [Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/#links)<p>
